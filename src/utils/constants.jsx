@@ -23,7 +23,6 @@ export const logo = logo1
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    { name: 'JS Mastery', icon: <CodeIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <JavascriptIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
