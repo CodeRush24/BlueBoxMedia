@@ -37,6 +37,6 @@ Install with yarn
     
 ## Authors
 
-- [@MavericksCoder](https://github.com/MavericksCoder)
+- [@sudarshandev24](https://github.com/sudarshandev24)
 
 
